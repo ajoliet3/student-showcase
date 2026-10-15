@@ -1,0 +1,9 @@
+{
+  "assignment": "Problem Set 3",
+  "studentName": "Eric Ye",
+  "projectTitle": "LiftLog",
+  "description": "Track strength-training workouts, log exercise sets, and follow personal records and progress over time. Google sign-in keeps each user's training log private.",
+  "projectType": ["Web App"],
+  "projectUrl": "https://si212-assignments-ericye.onrender.com",
+  "tags": ["React", "Express", "PostgreSQL", "Google OAuth"]
+}
